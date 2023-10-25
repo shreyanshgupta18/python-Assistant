@@ -1,3 +1,3 @@
 # python-Assistant
-Author - Shreyansh Gupta
+Author - Shreyansh Gupta/n
 this is a python assistant app
